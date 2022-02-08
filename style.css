@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+span{
+    font-size: large;
+    margin: left 50px;
+}
+span2{
+    font-size: large;
+    float: right;
+    margin-right: 50px;
+}
+p2{
+    color:rgb(163, 70, 70);
+    
+}
